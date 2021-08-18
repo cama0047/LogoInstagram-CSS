@@ -44,4 +44,20 @@ div::after{
   position: absolute;
   margin: auto;
   top: 0;
-  bottom:0;}
+  bottom:0;
+
+}
+
+span{
+  content: "";
+  border: 1rem solid #fff;
+  border-radius: 100%;
+  width: 0;
+  height: 0;
+  left: 7rem;
+  right: 0;
+  position: absolute;
+  margin: auto;
+  top: 5rem;
+  
+}
